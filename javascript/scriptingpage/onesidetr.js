@@ -1,3 +1,5 @@
+// Caution: this script is incomplete
+
 console.log("Lets make a 1 sided Triangle")
 
 let userInput = prompt("What is the length of your triangle? (Numbers only)")
