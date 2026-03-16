@@ -1,3 +1,5 @@
+// Caution: This script has functional errors
+
 const toyotaCarDealer = [
     {name: "Vios", price: 738_000, type: "Sedan"},
     {name: "Corolla Altis", price: 1_213_000, type: "Sedan"},
