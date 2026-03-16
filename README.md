@@ -1,0 +1,1 @@
+All files here are for practicing different things about programming, it is not a project but for learning purposes. So that any idea or problem that I might encounter on a project, I will post the logic or context here as a "library of knowledge in technology"
